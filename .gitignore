@@ -1,6 +1,9 @@
 # exclude images
 imgs/*
 
+# exclude datasets
+picture_similarity/*.csv
+
 
 
 
